@@ -1,9 +1,9 @@
 {
   "name": "ميوزك زيزو سورس",
-  "logo": "https://telegra.ph/file/b557e5cffeadff7704af9.jpg",
+  "logo": "https://graph.org/file/6dc0df2158e1de2aac29c.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/MatrxMusic8/ZeZo",
+  "repository": "https://github.com/Ahmedmfdh/ZeZoMUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
