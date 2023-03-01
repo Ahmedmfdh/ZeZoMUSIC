@@ -11,7 +11,7 @@
 
 ## ＳＯＵＲＣＥ ＺＥＺＯ ＭＵＳİＣ 
 <p align="center">
-  <img src="https://telegra.ph/file/b557e5cffeadff7704af9.jpg">
+  <img src="(https://graph.org/file/6dc0df2158e1de2aac29c.jpg)">
 </p>
 
 ## ✨ المميزات
@@ -53,7 +53,7 @@
 | `/rmd` | مسح جميع الملفات المحمله |
 
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MatrxMusic8/ZeZo)
+[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.ZeZo)
 
 
 
