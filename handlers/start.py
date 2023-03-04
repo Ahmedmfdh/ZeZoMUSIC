@@ -115,7 +115,7 @@ async def new_chat(c: Client, m: Message):
                         [
                             InlineKeyboardButton(
                         "☑️اضـفني لي مـجـمـوعـتـك☑️",
-                        url=f'https://t.me/{BOT_USERNAME}?startgroup=true'),
+                        url=f'https://t.me/{H_a_g_a_r_M_U_S_I_C_C_bot?startgroup=true'),
                         ],
                     ]
                 )
