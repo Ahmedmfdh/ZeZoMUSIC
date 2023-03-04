@@ -40,22 +40,22 @@
      "OWNER_USERNAME": {
       "description": "معرف مطور البوت بدون @",
       "required": false,
-      "value": "B_o_d_a_90"
+      "value": "H_A_S_I_S_A"
     },
     "SUPPORT_GROUP": {
       "description": "معرف جروبك بدون @",
       "required": false,
-      "value": "E_s_l_a_m_Zelzal"
+      "value": ""
     },
      "UPDATES_CHANNEL": {
       "description": "معرف قناتك بدون @",
        "required": true,
-       "value": "SourseZezoMusic"
+       "value": "SOURCESAKRAN"
      }, 
      "SUDO_USERS": {
       "description": "ضع ايدي بتاعك",
       "required": true,
-      "value": "5648157552"
+      "value": ""
     },
     "START_IMG": {
       "description": "ضع صورة البوت مره تانيه",
